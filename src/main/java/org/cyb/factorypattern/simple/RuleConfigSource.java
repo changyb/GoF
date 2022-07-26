@@ -1,6 +1,7 @@
 package org.cyb.factorypattern.simple;
 
 import org.cyb.factorypattern.IRuleConfigParser;
+import org.cyb.factorypattern.RuleConfig;
 
 public class RuleConfigSource {
     public RuleConfig load(String ruleConfigFilePath) {

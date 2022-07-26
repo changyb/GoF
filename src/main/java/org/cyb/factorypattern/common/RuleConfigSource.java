@@ -1,7 +1,7 @@
 package org.cyb.factorypattern.common;
 
 import org.cyb.factorypattern.IRuleConfigParser;
-import org.cyb.factorypattern.simple.RuleConfig;
+import org.cyb.factorypattern.RuleConfig;
 
 /**
  * <p>工厂方法模式</p>
